@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Words
+comment1.params=text
+comment1.target=void\ print(java.lang.String)
+comment2.params=text
+comment2.target=void\ printsl(java.lang.String)
+comment3.params=comm\ array
+comment3.target=boolean\ inArray(java.lang.String,\ java.lang.String[])
+comment4.params=comm\ comms
+comment4.target=boolean\ Check(java.lang.String,\ java.lang.String[])
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

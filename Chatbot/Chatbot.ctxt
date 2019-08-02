@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Chatbot
+comment1.params=text
+comment1.target=void\ print(java.lang.String)
+comment2.params=text
+comment2.target=void\ printsl(java.lang.String)
+comment3.params=comm\ array
+comment3.target=boolean\ inArray(java.lang.String,\ java.lang.String[])
+comment4.params=comm\ comms
+comment4.target=boolean\ Check(java.lang.String,\ java.lang.String[])
+comment5.params=comm
+comment5.target=java.lang.String\ Wiki(java.lang.String)
+comment6.params=comm\ comms\ responses
+comment6.target=void\ Chat(java.lang.String,\ java.lang.String[],\ java.lang.String[][])
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
